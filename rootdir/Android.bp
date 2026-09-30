@@ -1,0 +1,6 @@
+prebuilt_etc {
+    name: "init.asterarium.rc",
+    src: "etc/init.asterarium.rc",
+    sub_dir: "init/hw",
+    vendor: true,
+}
