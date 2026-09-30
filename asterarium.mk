@@ -11,3 +11,8 @@ PRODUCT_PACKAGES += \
 # Rootdir
 PRODUCT_PACKAGES += \
     init.asterarium.rc
+
+# Viper4androidfx
+PRODUCT_PACKAGES += \
+    ViPER4AndroidFX \
+    libv4a_re
