@@ -1,4 +1,4 @@
-deviceDir=$(gettop)/asterarium/vendor/extra
+deviceDir=$(gettop)asterarium/vendor/extra
 
 # apply patches
 ${deviceDir}/patch.sh ${deviceDir}/patches
